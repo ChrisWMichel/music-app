@@ -1,4 +1,4 @@
-<h2>This is a tutorial music-app that implements the following:</h2>
+<h2>This is a simple music-app that implements the following:</h2>
 <ul style="font-size: x-large">
     <li>Pinia</li>
     <li>vue-router</li>
